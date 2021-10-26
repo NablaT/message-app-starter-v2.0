@@ -1,4 +1,4 @@
-# vuenew2
+# Message app starter v2
 
 ## Project setup
 ```
